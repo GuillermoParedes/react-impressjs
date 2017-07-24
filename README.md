@@ -24,3 +24,6 @@ Easy to create an impressive **Slide**/**Introduction**/**Presentation** in Reac
 ## More information
 
 [![NPM install](https://nodei.co/npm/react-impressjs.png)](https://github.com/georgiowan/react-impressjs)
+
+## Thank to GeorgioWan
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
