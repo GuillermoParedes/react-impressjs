@@ -22,8 +22,8 @@ export default class Impress extends Component {
         const {
             rootData        = {},
             hint            = true, 
-            hintMessage     = <p>Use <b>Spacebar</b> or <b>Arrow keys</b> to navigate</p>, 
-            fallbackMessage = <p>Your browser <b>doesn't support the features required</b> by React-impressJS, so you are presented with a simplified version of this presentation.</p>, 
+            hintMessage     = <p>Utilize <b>Barra espaciadora</b> o <b>las flechas</b> para navegar</p>,
+            fallbackMessage = <p>Tu navegador<b>no soporta los requerimientos </b> para React-impressJS</p>,
             progress        = false
         } = props;
         

@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import { Impress, Step } from './components';
 //import { Impress, Step } from '../';
 import './styles/_base.scss';
-//import '../styles/impress-demo.css';
+import '../styles/impress-sapm.css';
 
-import demo from './demo/impress-demo';
+import demo from './sapm/impress-sapm';
 
 class App extends Component {
   render() {
