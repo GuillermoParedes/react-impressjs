@@ -1,5 +1,5 @@
 {
-  "name": "react-impressjs",
+  "name": "presentacion-react",
   "version": "1.1.0",
   "license": "MIT",
   "author": "GeorgioWan <georgio.wan@gmail.com> (http://github.com/georgiowan)",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/georgiowan/react-impressjs"
+    "url": "git+https://github.com/georgiowan/react-impressjs.git"
   },
   "homepage": "https://oawan.me/react-impressjs",
   "bugs": {
@@ -114,5 +114,7 @@
   },
   "eslintConfig": {
     "extends": "react-app"
-  }
+  },
+  "description": "impress.js via React :tada:",
+  "main": "index.js"
 }
