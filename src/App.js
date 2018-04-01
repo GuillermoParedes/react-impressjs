@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Impress, Step } from './components';
-//import { Impress, Step } from '../';
 import './styles/_base.scss';
 import '../styles/impress-sapm.css';
 
